@@ -1,5 +1,3 @@
-package Inheritance.P04_NeedForSpeed;
-
 public class Vehicle {
     private static final double DEFAULT_FUEL_CONSUMPTION = 1.25;
 
